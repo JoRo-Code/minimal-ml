@@ -1,0 +1,15 @@
+jupyter
+ipykernel
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+keras
+tensorflow
+
+colorama
+
+yfinance
+
